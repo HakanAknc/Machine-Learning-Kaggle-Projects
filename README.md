@@ -1,5 +1,6 @@
 # Machine-Learning-Kaggle-Projects
 # Machine Learning Titanic Veri Seti Analizi ve Test Doğruluk Oranı
+**Proje**
 
 ![d1](https://github.com/HakanAknc/Machine-Learning-Kaggle-Projects/assets/96823170/067446d8-50f5-49e0-9a2b-3c54f599c3f9)
 
